@@ -1,0 +1,20 @@
+﻿body,form,h2,p {
+    margin:0;
+    padding:0;
+}
+body{
+    color:#fff;
+    background:url(images/back.jpg);
+}
+#reg{
+    width:675px;
+    height:520px;
+    background:url(images/bg.png);
+    margin:50px auto;
+}
+#reg h2{
+    padding-top:150px;
+}
+#reg p {
+        padding-top: 10px;
+}
